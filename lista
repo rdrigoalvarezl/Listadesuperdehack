@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <title>Lista de Super</title>
+  <link rel="stylesheet" href="C:\Users\Yessica\Desktop\dev.f\styles/style.css" media="screen" title="no title" charset="utf-8">
+  <link href='https://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
+</head>
+<body>
+  <h1>Lista de Super</h1>
+  <h2>WALMART</h2>
+  <p>Margarita, favor de de comprar todo lo que hay en la lista</p>
+<ol>
+  <li>Lacteos</li>
+  <ul>
+    <li>Leche Alpura</li>
+      <img class="imageLac" src="C:\Users\Yessica\Desktop\dev.f\images/images.jpg" alt="">
+    <li>Queso Manchego</li>
+      <img id="manchego"src="C:\Users\Yessica\Desktop\dev.f\images/03.jpg" alt="">
+    <li>Queso Philadeplhia</li>
+    <img src="C:\Users\Yessica\Desktop\dev.f\images/quesop.png" alt="">
+  </ul>
+</ol>
+  <li>Cereales</li>
+  <ul>
+    <li>Fruti Lupis</li>
+
+
+</body>
+</html>
